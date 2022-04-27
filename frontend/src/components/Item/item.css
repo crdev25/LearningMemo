@@ -1,0 +1,18 @@
+.item {
+  border-bottom: 1px solid #ccc;
+  padding: 10px;
+  position: relative;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: rgb(255, 151, 47);
+  cursor: pointer;
+}
+.item:hover {
+  background-color: #6c757d;
+}
+a:link {
+  text-decoration: none;
+}
+.item-note {
+  margin-top: 5px;
+  color: white;
+}

@@ -1,0 +1,57 @@
+[
+{
+  "model": "api_memo.memo",
+  "pk": 1,
+  "fields": {
+    "subject": "React",
+    "title": "React installation",
+    "note": "Getting started with react installation.\n- https://reactjs.org/docs/getting-started.html\n- https://www.freecodecamp.org/news/install-react-with-create-react-app/\n- https://www.tutorialspoint.com/reactjs/reactjs_environment_setup.htm\n- https://reactjs.org/docs/create-a-new-react-app.html\n- test link",
+    "updated": "2022-04-22T07:28:03.574Z",
+    "created": "2022-04-14T04:22:10.824Z"
+  }
+},
+{
+  "model": "api_memo.memo",
+  "pk": 2,
+  "fields": {
+    "subject": "React",
+    "title": "What Is React? ",
+    "note": "React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called “components”.",
+    "updated": "2022-04-22T10:30:34.559Z",
+    "created": "2022-04-22T08:12:41.618Z"
+  }
+},
+{
+  "model": "api_memo.memo",
+  "pk": 3,
+  "fields": {
+    "subject": "React",
+    "title": "Inspecting the Starter Code ",
+    "note": "This Starter Code is the base of what we’re building. We’ve provided the CSS styling so that you only need to focus on learning React and programming the tic-tac-toe game.",
+    "updated": "2022-04-22T08:13:14.566Z",
+    "created": "2022-04-22T08:13:14.566Z"
+  }
+},
+{
+  "model": "api_memo.memo",
+  "pk": 4,
+  "fields": {
+    "subject": "Python",
+    "title": "Installing",
+    "note": "- https://wiki.python.org/moin/BeginnersGuide/Download",
+    "updated": "2022-04-22T08:36:41.272Z",
+    "created": "2022-04-22T08:36:41.881Z"
+  }
+},
+{
+  "model": "api_memo.memo",
+  "pk": 5,
+  "fields": {
+    "subject": "Python",
+    "title": "Analyze data with Python",
+    "note": "",
+    "updated": "2022-04-26T10:40:29.700Z",
+    "created": "2022-04-22T09:48:14.649Z"
+  }
+}
+]

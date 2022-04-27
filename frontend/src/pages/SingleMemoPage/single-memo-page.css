@@ -1,0 +1,11 @@
+.single-page {
+  background-color: #343a40;
+  padding: 10px;
+}
+.single-memo-header {
+  display: flex;
+  justify-content: space-between;
+}
+FormControl {
+  background-color: black;
+}
